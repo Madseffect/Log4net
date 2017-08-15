@@ -1,0 +1,8 @@
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\bin\Debug\log4net.dll
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\bin\Debug\log4net.xml
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\mkr\documents\visual studio 2017\Projects\Log4netTutorial\ConsoleUI\obj\Debug\ConsoleUI.pdb
