@@ -10,7 +10,7 @@ namespace ConsoleUI
 {
     class Program
     {
-        private static readonly log4net.ILog log = LogHelper.GetLogger(); //log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType); //Makes one for each class
+        private static readonly log4net.ILog log =  log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType); //Makes one for each class LogHelper.GetLogger();
 
         static void Main(string[] args)
         {
